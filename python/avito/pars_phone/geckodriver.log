@@ -547,3 +547,1637 @@ IPDL protocol error: Handler returned error code!
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
 1554160930812	Marionette	INFO	Stopped listening on port 40417
+1554195316105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KyDcQvOgLAli"
+1554195316601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554195316601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554195316601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554195318173	Marionette	INFO	Listening on port 34339
+1554195318214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.avito.st/s/cc/bundles/89405eb6d02db1f816b7.js, line 1: TypeError: fetch(...) is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 10915, Gecko_IOThread] WARNING: pipe error (125): Соединение разорвано другой стороной: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10915, Gecko_IOThread] WARNING: pipe error (122): Соединение разорвано другой стороной: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10915, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1554198087446	Marionette	INFO	Stopped listening on port 34339
+1554205672321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R7cr7gJTB3zL"
+1554205672806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554205672806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554205672806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554205674282	Marionette	INFO	Listening on port 46135
+1554205674327	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19029): dconf-WARNING **: 14:48:02.894: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+1554225225376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zQoVLd0Mc7pK"
+1554225225792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554225225792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554225225893	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225225893	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225225893	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225225900	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225225900	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225225900	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225225906	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225225906	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225225906	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225225911	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554225225911	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554225225911	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:22963): Gtk-WARNING **: 20:13:46.126: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22963): Gtk-WARNING **: 20:13:46.126: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554225227329	Marionette	INFO	Listening on port 45231
+1554225227412	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22963, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 22963, Gecko_IOThread] WARNING: pipe error (84): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554225250409	Marionette	INFO	Stopped listening on port 45231
+1554225287127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3uTnTFk7fCx6"
+1554225287533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554225287534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554225287631	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225287631	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225287631	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225287638	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225287639	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225287639	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225287645	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225287645	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225287646	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225287652	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554225287652	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554225287652	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:23409): Gtk-WARNING **: 20:14:47.867: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23409): Gtk-WARNING **: 20:14:47.867: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554225289072	Marionette	INFO	Listening on port 35945
+1554225289150	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1554225799412	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225799413	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225799414	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225799415	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554225799422	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225799422	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225799422	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225799422	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554225917873	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554225917873	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554225917874	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554225917875	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+1554234175637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d1hQfELmbWYR"
+1554234176071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554234176071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554234176176	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554234176176	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554234176176	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554234176182	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554234176182	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554234176183	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554234176188	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554234176188	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554234176189	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554234176195	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554234176195	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554234176195	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:31105): Gtk-WARNING **: 22:42:56.416: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31105): Gtk-WARNING **: 22:42:56.416: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554234177737	Marionette	INFO	Listening on port 33467
+1554234177749	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31105, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 31105, Gecko_IOThread] WARNING: pipe error (121): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554234205053	Marionette	INFO	Stopped listening on port 33467
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23409, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554236077117	Marionette	INFO	Stopped listening on port 35945
+1554240623694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.biSxG9IkbXyz"
+1554240624168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554240624168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554240624272	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554240624272	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554240624272	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554240624279	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554240624280	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554240624280	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554240624286	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554240624286	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554240624286	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554240624293	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554240624293	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554240624293	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:22452): Gtk-WARNING **: 00:30:24.491: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22452): Gtk-WARNING **: 00:30:24.491: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554240625807	Marionette	INFO	Listening on port 39179
+1554240625908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.avito.st/s/cc/bundles/2235407f4601d86c9dbc.js, line 1: TypeError: fetch(...) is undefined
+1554241135977	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554241135978	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554241135980	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554241135981	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554241135987	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554241135987	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554241135987	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554241135987	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1554241254567	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554241254568	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554241254569	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554241254570	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242109017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zp6Dmaid6Ww2"
+1554242109543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554242109543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554242109705	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242109705	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242109706	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242109712	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242109713	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242109713	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242109720	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242109720	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242109721	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242109727	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242109727	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242109728	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:25983): Gtk-WARNING **: 00:55:09.918: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25983): Gtk-WARNING **: 00:55:09.918: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554242111225	Marionette	INFO	Listening on port 37151
+1554242111241	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22452, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1554242115100	Marionette	INFO	Stopped listening on port 39179
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1554242280381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JqMEF2LhFPqt"
+1554242280931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554242280931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554242281070	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242281070	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242281071	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242281078	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242281078	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242281079	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242281085	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242281085	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242281086	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242281092	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242281092	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242281092	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:28209): Gtk-WARNING **: 00:58:01.292: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28209): Gtk-WARNING **: 00:58:01.292: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554242282628	Marionette	INFO	Listening on port 45065
+1554242282705	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25983, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 25983, Gecko_IOThread] WARNING: pipe error (84): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554242286516	Marionette	INFO	Stopped listening on port 37151
+1554242563669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sdc2Wb6AHZ4f"
+1554242564187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554242564187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554242564307	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242564307	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242564307	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242564313	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242564314	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242564314	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242564319	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242564319	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242564320	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242564325	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242564325	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242564325	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:30336): Gtk-WARNING **: 01:02:44.545: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30336): Gtk-WARNING **: 01:02:44.545: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554242566120	Marionette	INFO	Listening on port 34075
+1554242566204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554242792616	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242792618	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242792619	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242792621	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242792628	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242792628	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242792629	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242792629	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242813540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UB5hajSwhtxi"
+1554242814012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554242814012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554242814136	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242814136	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242814137	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242814144	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242814144	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242814144	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242814150	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242814150	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242814150	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242814155	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242814156	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242814156	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:2108): Gtk-WARNING **: 01:06:54.338: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2108): Gtk-WARNING **: 01:06:54.338: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554242815714	Marionette	INFO	Listening on port 40389
+1554242815750	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30336, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 30336, Gecko_IOThread] WARNING: pipe error (84): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554242818292	Marionette	INFO	Stopped listening on port 34075
+1554242819991	Marionette	INFO	Stopped listening on port 45065
+1554242915259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MbYf75tCKifr"
+1554242915711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554242915711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554242915828	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242915828	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242915829	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554242915835	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242915835	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242915835	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554242915841	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242915841	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242915841	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554242915848	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242915848	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554242915848	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:3481): Gtk-WARNING **: 01:08:36.017: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3481): Gtk-WARNING **: 01:08:36.017: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554242917288	Marionette	INFO	Listening on port 45885
+1554242917403	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1554243025598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6IWcdFbIemMP"
+1554243026076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554243026076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554243026199	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243026199	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243026199	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243026205	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243026206	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243026206	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243026212	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243026212	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243026212	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243026219	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243026219	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243026220	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:5677): Gtk-WARNING **: 01:10:26.425: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5677): Gtk-WARNING **: 01:10:26.425: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554243027907	Marionette	INFO	Listening on port 33131
+1554243028036	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5677, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 5677, Gecko_IOThread] WARNING: pipe error (84): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554243061050	Marionette	INFO	Stopped listening on port 33131
+1554243092050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I6kFEp5n1yMe"
+1554243092498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554243092498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554243092612	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243092612	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243092612	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243092618	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243092618	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243092619	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243092625	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243092625	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243092626	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243092631	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243092631	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243092631	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:6232): Gtk-WARNING **: 01:11:32.856: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6232): Gtk-WARNING **: 01:11:32.856: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554243094105	Marionette	INFO	Listening on port 39755
+1554243094183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554243111336	Marionette	INFO	Stopped listening on port 39755
+[Parent 6232, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 6232, Gecko_IOThread] WARNING: pipe error (126): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 3481, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554243254861	Marionette	INFO	Stopped listening on port 45885
+1554243256270	Marionette	INFO	Stopped listening on port 40389
+1554243337143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pCVthjN6nMvp"
+1554243337579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554243337579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554243337687	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243337687	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243337687	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243337693	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243337693	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243337694	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243337699	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243337699	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243337699	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243337706	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243337706	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243337706	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:9769): Gtk-WARNING **: 01:15:37.895: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9769): Gtk-WARNING **: 01:15:37.895: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554243339146	Marionette	INFO	Listening on port 44473
+1554243339160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554243352932	Marionette	INFO	Stopped listening on port 44473
+[Parent 9769, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554243456349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.74vpjQlOCd7s"
+1554243456865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554243456865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554243456979	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243456979	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243456980	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243456986	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243456987	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243456988	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243456994	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243456994	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243456995	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243457000	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243457000	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243457000	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:11061): Gtk-WARNING **: 01:17:37.184: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11061): Gtk-WARNING **: 01:17:37.184: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554243458558	Marionette	INFO	Listening on port 41941
+1554243458660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554243471796	Marionette	INFO	Stopped listening on port 41941
+[Parent 11061, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 11061, Gecko_IOThread] WARNING: pipe error (122): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554243605334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jIOQXkl1Vw8S"
+1554243605805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554243605806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554243605925	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243605925	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243605925	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554243605931	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243605932	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243605932	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554243605940	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243605940	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243605941	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554243605947	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243605947	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554243605947	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:12376): Gtk-WARNING **: 01:20:06.151: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12376): Gtk-WARNING **: 01:20:06.151: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554243607676	Marionette	INFO	Listening on port 37273
+1554243607745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554243621794	Marionette	INFO	Stopped listening on port 37273
+[Parent 12376, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554244081479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.REPIvZxx5UJ6"
+1554244081935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554244081936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554244082063	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244082064	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244082064	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244082073	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244082073	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244082074	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244082082	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244082083	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244082083	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244082092	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244082092	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244082092	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:13776): Gtk-WARNING **: 01:28:02.309: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13776): Gtk-WARNING **: 01:28:02.309: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554244083739	Marionette	INFO	Listening on port 35927
+1554244083806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554244096175	Marionette	INFO	Stopped listening on port 35927
+[Parent 13776, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554244421784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z8W4zzYR2iEh"
+1554244422331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554244422332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554244422462	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244422462	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244422463	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244422469	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244422469	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244422469	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244422475	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244422475	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244422476	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244422482	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244422482	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244422482	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:20292): Gtk-WARNING **: 01:33:42.683: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20292): Gtk-WARNING **: 01:33:42.683: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554244424255	Marionette	INFO	Listening on port 43297
+1554244424303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554244437171	Marionette	INFO	Stopped listening on port 43297
+[Parent 20292, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554244654069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i74Jd5fawhoe"
+1554244654660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554244654660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554244654790	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244654790	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244654791	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244654798	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244654798	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244654798	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244654804	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244654804	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244654804	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244654810	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244654811	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244654811	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:23764): Gtk-WARNING **: 01:37:35.044: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23764): Gtk-WARNING **: 01:37:35.044: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554244656305	Marionette	INFO	Listening on port 43699
+1554244656381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554244669407	Marionette	INFO	Stopped listening on port 43699
+[Parent 23764, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554244813559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.moBNS0Qz4bLG"
+1554244814033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554244814033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554244814189	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244814190	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244814190	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244814198	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244814199	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244814199	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244814206	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244814206	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244814207	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244814217	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244814217	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244814218	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:26440): Gtk-WARNING **: 01:40:14.389: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26440): Gtk-WARNING **: 01:40:14.389: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554244816031	Marionette	INFO	Listening on port 34325
+1554244816073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554244829037	Marionette	INFO	Stopped listening on port 34325
+[Parent 26440, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 26440, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554244908543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.41hBFnFAiqpm"
+1554244909055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554244909055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554244909210	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244909211	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244909211	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554244909224	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244909225	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244909226	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554244909237	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244909237	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244909238	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554244909249	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244909249	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554244909249	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:28995): Gtk-WARNING **: 01:41:49.524: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28995): Gtk-WARNING **: 01:41:49.524: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554244910978	Marionette	INFO	Listening on port 45807
+1554244911054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554244923160	Marionette	INFO	Stopped listening on port 45807
+[Parent 28995, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554245215594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n8XV0Xx2s7Dy"
+1554245216078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245216078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245216217	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245216218	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245216218	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245216226	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245216226	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245216226	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245216232	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245216233	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245216234	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245216239	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245216240	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245216240	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:30734): Gtk-WARNING **: 01:46:56.456: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30734): Gtk-WARNING **: 01:46:56.456: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245217989	Marionette	INFO	Listening on port 39817
+1554245218019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245229134	Marionette	INFO	Stopped listening on port 39817
+[Parent 30734, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554245266564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rdnFW7iI6ewr"
+1554245267136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245267137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245267309	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245267309	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245267309	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245267318	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245267318	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245267318	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245267327	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245267327	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245267328	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245267337	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245267337	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245267337	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:32065): Gtk-WARNING **: 01:47:47.547: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32065): Gtk-WARNING **: 01:47:47.547: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245269029	Marionette	INFO	Listening on port 38163
+1554245269075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245280706	Marionette	INFO	Stopped listening on port 38163
+[Parent 32065, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 32065, Gecko_IOThread] WARNING: pipe error (123): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554245379586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qHzNBeJkscZY"
+1554245380125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245380125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245380275	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245380275	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245380276	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245380284	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245380284	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245380284	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245380292	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245380292	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245380293	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245380300	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245380300	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245380301	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:1207): Gtk-WARNING **: 01:49:40.517: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1207): Gtk-WARNING **: 01:49:40.517: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245381864	Marionette	INFO	Listening on port 34377
+1554245381905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245394867	Marionette	INFO	Stopped listening on port 34377
+1554245471816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4AdD62JvzKiK"
+1554245472310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245472310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245472470	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245472470	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245472471	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245472481	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245472481	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245472482	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245472494	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245472494	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245472495	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245472501	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245472501	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245472501	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:2757): Gtk-WARNING **: 01:51:12.724: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2757): Gtk-WARNING **: 01:51:12.724: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245474328	Marionette	INFO	Listening on port 46389
+1554245474440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245487605	Marionette	INFO	Stopped listening on port 46389
+[Parent 2757, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554245557745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yk6xlF6oq2qU"
+1554245558212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245558212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245558425	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245558425	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245558426	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245558436	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245558438	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245558439	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245558446	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245558446	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245558446	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245558453	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245558453	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245558453	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:4135): Gtk-WARNING **: 01:52:38.645: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4135): Gtk-WARNING **: 01:52:38.645: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245560248	Marionette	INFO	Listening on port 38519
+1554245560259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245575170	Marionette	INFO	Stopped listening on port 38519
+[Parent 4135, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554245603393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CIfAcMd4MOK3"
+1554245603855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245603855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245603971	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245603971	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245603971	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245603977	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245603978	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245603978	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245603984	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245603984	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245603985	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245603991	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245603992	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245603992	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:5515): Gtk-WARNING **: 01:53:24.168: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5515): Gtk-WARNING **: 01:53:24.168: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245605515	Marionette	INFO	Listening on port 42661
+1554245605602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245620641	Marionette	INFO	Stopped listening on port 42661
+[Parent 5515, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554245721093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jS8gKGOfSRbI"
+1554245721563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245721564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245721701	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245721701	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245721702	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245721710	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245721710	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245721711	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245721718	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245721718	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245721719	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245721726	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245721726	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245721726	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:6833): Gtk-WARNING **: 01:55:21.942: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6833): Gtk-WARNING **: 01:55:21.943: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245723221	Marionette	INFO	Listening on port 36861
+1554245723353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245737752	Marionette	INFO	Stopped listening on port 36861
+[Parent 6833, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 6833, Gecko_IOThread] WARNING: pipe error (112): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554245817330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2XQFCZsTZVMx"
+1554245817866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245817866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245817993	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245817993	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245817993	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245817999	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245818000	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245818000	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245818010	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245818011	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245818011	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245818022	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245818022	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245818023	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:8166): Gtk-WARNING **: 01:56:58.246: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8166): Gtk-WARNING **: 01:56:58.247: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245819589	Marionette	INFO	Listening on port 46513
+1554245819663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245829369	Marionette	INFO	Stopped listening on port 46513
+[Parent 8166, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 8166, Gecko_IOThread] WARNING: pipe error (123): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554245944915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gFETkeJtCVxv"
+1554245945402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554245945403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554245945524	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245945524	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245945525	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554245945531	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245945532	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245945532	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554245945538	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245945539	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245945539	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554245945544	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245945544	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554245945545	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:9515): Gtk-WARNING **: 01:59:05.755: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9515): Gtk-WARNING **: 01:59:05.755: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554245947268	Marionette	INFO	Listening on port 34169
+1554245947326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554245960451	Marionette	INFO	Stopped listening on port 34169
+[Parent 9515, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 9515, Gecko_IOThread] WARNING: pipe error (123): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554246118335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nNwhAg7AkNDR"
+1554246118810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554246118810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554246118931	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246118931	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246118931	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246118938	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246118939	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246118939	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246118944	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246118944	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246118945	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246118951	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246118951	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246118951	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:10857): Gtk-WARNING **: 02:01:59.170: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10857): Gtk-WARNING **: 02:01:59.170: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554246120582	Marionette	INFO	Listening on port 42693
+1554246120679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554246133766	Marionette	INFO	Stopped listening on port 42693
+[Parent 10857, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554246285271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4ypRkbAL1Gdp"
+1554246285709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554246285709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554246285819	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246285820	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246285820	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246285826	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246285826	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246285826	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246285832	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246285832	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246285833	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246285839	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246285839	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246285839	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:11380): Gtk-WARNING **: 02:04:46.033: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11380): Gtk-WARNING **: 02:04:46.033: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554246287252	Marionette	INFO	Listening on port 42671
+1554246287284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554246310653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mgdJew4loGet"
+1554246311074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554246311074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554246311184	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246311185	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246311185	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246311191	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246311191	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246311192	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246311197	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246311197	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246311198	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246311204	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246311204	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246311204	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:11834): Gtk-WARNING **: 02:05:11.395: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11834): Gtk-WARNING **: 02:05:11.395: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554246312625	Marionette	INFO	Listening on port 37113
+1554246312665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554246324971	Marionette	INFO	Stopped listening on port 37113
+[Parent 11834, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 11834, Gecko_IOThread] WARNING: pipe error (125): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554246536211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s5TRM0LS33SS"
+1554246536674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554246536674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554246536792	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246536792	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246536792	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246536800	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246536800	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246536801	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246536806	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246536806	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246536807	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246536812	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246536812	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246536812	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:14030): Gtk-WARNING **: 02:08:56.986: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14030): Gtk-WARNING **: 02:08:56.986: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554246538410	Marionette	INFO	Listening on port 41951
+1554246538425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554246550479	Marionette	INFO	Stopped listening on port 41951
+[Parent 14030, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554246797706	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246797708	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246797709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246797711	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246797719	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246797719	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246797719	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246797719	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246840125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wPW93S1oSazg"
+1554246840574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554246840574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554246840696	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246840696	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246840696	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554246840702	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246840703	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246840703	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554246840709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246840709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246840709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554246840716	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246840716	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554246840716	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:18681): Gtk-WARNING **: 02:14:00.903: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18681): Gtk-WARNING **: 02:14:00.903: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554246842333	Marionette	INFO	Listening on port 41721
+1554246842492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554246857314	Marionette	INFO	Stopped listening on port 41721
+[Parent 18681, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 11380, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 11380, Gecko_IOThread] WARNING: pipe error (61): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554246858427	Marionette	INFO	Stopped listening on port 42671
+1554247108228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OShBmW1fW56Y"
+1554247108712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554247108712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554247108828	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247108828	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247108828	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247108834	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247108834	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247108835	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247108841	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247108841	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247108841	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247108848	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247108848	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247108848	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:20184): Gtk-WARNING **: 02:18:29.027: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20184): Gtk-WARNING **: 02:18:29.027: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554247110381	Marionette	INFO	Listening on port 38875
+1554247110449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554247123848	Marionette	INFO	Stopped listening on port 38875
+[Parent 20184, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554247188970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1Dk3RcLTCgZf"
+1554247189442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554247189443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554247189579	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247189579	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247189580	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247189590	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247189591	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247189591	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247189599	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247189599	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247189600	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247189607	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247189607	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247189608	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:21641): Gtk-WARNING **: 02:19:49.818: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21641): Gtk-WARNING **: 02:19:49.818: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554247191313	Marionette	INFO	Listening on port 44623
+1554247191379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.avito.st/s/cc/bundles/2235407f4601d86c9dbc.js, line 1: NotSupportedError: Operation is not supported
+JavaScript error: https://www.avito.st/s/cc/bundles/2235407f4601d86c9dbc.js, line 1: NetworkError: A network error occurred.
+JavaScript error: https://www.avito.st/s/cc/chunks/9b78e62cd1b6eff16281.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.avito.st/s/cc/bundles/2235407f4601d86c9dbc.js, line 1: NetworkError: A network error occurred.
+JavaScript error: https://www.avito.st/s/cc/chunks/67f041a8d0f884047f6b.js, line 26: TypeError: _(...) is null
+1554247196871	Marionette	INFO	Stopped listening on port 44623
+1554247288920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l467yYC2VbEM"
+1554247289327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554247289327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554247289437	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247289437	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247289438	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247289444	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247289444	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247289444	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247289450	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247289450	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247289450	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247289456	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247289457	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247289457	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:22133): Gtk-WARNING **: 02:21:29.670: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22133): Gtk-WARNING **: 02:21:29.670: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554247290922	Marionette	INFO	Listening on port 32991
+1554247290934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554247306808	Marionette	INFO	Stopped listening on port 32991
+1554247353074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7EAddmRLjLVx"
+1554247353561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554247353561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554247353694	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247353694	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247353694	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247353702	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247353702	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247353702	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247353709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247353709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247353710	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247353717	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247353717	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247353717	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:23465): Gtk-WARNING **: 02:22:33.906: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23465): Gtk-WARNING **: 02:22:33.907: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554247355200	Marionette	INFO	Listening on port 40453
+1554247355309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554247370364	Marionette	INFO	Stopped listening on port 40453
+[Parent 23465, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554247407130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZfxVE5rab7YV"
+1554247407624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554247407624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554247407753	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247407753	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247407754	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247407761	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247407762	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247407762	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247407767	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247407768	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247407768	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247407775	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247407776	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247407776	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:24736): Gtk-WARNING **: 02:23:27.961: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24736): Gtk-WARNING **: 02:23:27.961: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554247409469	Marionette	INFO	Listening on port 46173
+1554247409554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554247423294	Marionette	INFO	Stopped listening on port 46173
+[Parent 24736, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554247621737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m77jHjAA86sa"
+1554247622181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554247622181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554247622300	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247622300	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247622300	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247622306	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247622307	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247622307	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247622314	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247622314	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247622315	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247622320	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247622320	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247622320	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:27395): Gtk-WARNING **: 02:27:02.558: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27395): Gtk-WARNING **: 02:27:02.558: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554247623952	Marionette	INFO	Listening on port 46651
+1554247624063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554247634957	Marionette	INFO	Stopped listening on port 46651
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 27395, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554247745980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YjVexaL1suRh"
+1554247746478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554247746478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554247746632	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247746632	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247746632	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247746642	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247746643	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247746644	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247746653	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247746654	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247746654	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247746662	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247746662	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247746662	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:29186): Gtk-WARNING **: 02:29:06.892: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29186): Gtk-WARNING **: 02:29:06.892: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554247748457	Marionette	INFO	Listening on port 43203
+1554247748495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554247763785	Marionette	INFO	Stopped listening on port 43203
+[Parent 29186, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554247859439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KMKSIHOs0CkE"
+1554247860023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554247860024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554247860154	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247860155	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247860155	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554247860164	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247860164	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247860165	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554247860174	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247860175	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247860175	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554247860181	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247860181	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554247860182	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:31084): Gtk-WARNING **: 02:31:00.377: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31084): Gtk-WARNING **: 02:31:00.377: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554247861733	Marionette	INFO	Listening on port 42357
+1554247861753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554247865688	Marionette	INFO	Stopped listening on port 42357
+1554248003128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.av47YaeuQRiI"
+1554248003582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554248003582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554248003696	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248003696	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248003697	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248003703	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248003703	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248003703	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248003709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248003709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248003709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248003715	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554248003715	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554248003716	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:2347): Gtk-WARNING **: 02:33:23.950: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2347): Gtk-WARNING **: 02:33:23.950: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554248005217	Marionette	INFO	Listening on port 41497
+1554248005239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554248241385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QY7Ym1tqDPut"
+1554248241839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554248241839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554248241955	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248241955	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248241956	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248241962	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248241962	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248241962	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248241968	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248241968	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248241968	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248241973	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554248241974	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554248241974	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:5582): Gtk-WARNING **: 02:37:22.144: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5582): Gtk-WARNING **: 02:37:22.144: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554248243574	Marionette	INFO	Listening on port 35977
+1554248243598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554248256375	Marionette	INFO	Stopped listening on port 35977
+[Parent 5582, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 5582, Gecko_IOThread] WARNING: pipe error (124): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554248518704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rcetxdPSEhxF"
+1554248519199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554248519199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554248519313	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248519314	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248519314	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554248519321	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248519321	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248519322	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554248519328	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248519328	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248519329	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554248519336	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554248519336	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554248519336	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:10081): Gtk-WARNING **: 02:41:59.558: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10081): Gtk-WARNING **: 02:41:59.558: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554248521091	Marionette	INFO	Listening on port 36039
+1554248521120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554248535103	Marionette	INFO	Stopped listening on port 36039
+[Parent 10081, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554249122668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xhtpj9pdAbQZ"
+1554249123108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554249123108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554249123222	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249123222	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249123223	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249123229	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249123229	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249123230	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249123235	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249123235	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249123235	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249123240	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554249123241	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554249123241	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:16650): Gtk-WARNING **: 02:52:03.459: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16650): Gtk-WARNING **: 02:52:03.459: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554249124810	Marionette	INFO	Listening on port 43213
+1554249124894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554249138849	Marionette	INFO	Stopped listening on port 43213
+[Parent 16650, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554249484230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mW9oS8UnTPui"
+1554249484696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554249484696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554249484816	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249484816	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249484816	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249484822	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249484823	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249484823	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249484828	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249484829	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249484829	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249484835	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554249484835	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554249484836	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:20832): Gtk-WARNING **: 02:58:05.060: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20832): Gtk-WARNING **: 02:58:05.060: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554249486360	Marionette	INFO	Listening on port 41539
+1554249486445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554249498330	Marionette	INFO	Stopped listening on port 41539
+[Parent 20832, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554249822180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C97TfUASmBFd"
+1554249822623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554249822623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554249822735	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249822736	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249822736	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249822742	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249822742	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249822743	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249822748	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249822748	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249822748	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249822755	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554249822755	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554249822755	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:25123): Gtk-WARNING **: 03:03:42.956: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25123): Gtk-WARNING **: 03:03:42.956: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554249824317	Marionette	INFO	Listening on port 40887
+1554249824434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554249836437	Marionette	INFO	Stopped listening on port 40887
+[Parent 25123, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554249920589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WjTdIoMFteR4"
+1554249921053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554249921053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554249921186	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249921186	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249921186	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554249921193	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249921193	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249921193	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554249921199	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249921200	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249921200	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554249921207	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554249921207	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554249921207	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:27332): Gtk-WARNING **: 03:05:21.427: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27332): Gtk-WARNING **: 03:05:21.427: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554249922837	Marionette	INFO	Listening on port 42803
+1554249922915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554249936012	Marionette	INFO	Stopped listening on port 42803
+[Parent 27332, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554250118974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K1B4aOB2tSn9"
+1554250119451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554250119452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554250119598	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250119598	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250119600	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250119609	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250119609	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250119610	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250119619	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250119619	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250119619	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250119625	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554250119625	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554250119625	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:29136): Gtk-WARNING **: 03:08:39.868: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29136): Gtk-WARNING **: 03:08:39.868: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554250121273	Marionette	INFO	Listening on port 36185
+1554250121287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554250132820	Marionette	INFO	Stopped listening on port 36185
+[Parent 29136, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554250549932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yV0VP29goEXX"
+1554250550437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554250550438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554250550590	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250550590	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250550590	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250550598	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250550598	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250550598	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250550604	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250550604	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250550604	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250550610	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554250550610	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554250550610	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:31820): Gtk-WARNING **: 03:15:50.803: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31820): Gtk-WARNING **: 03:15:50.804: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554250552243	Marionette	INFO	Listening on port 40109
+1554250552345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554250565487	Marionette	INFO	Stopped listening on port 40109
+[Parent 31820, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554250882914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E5ljC1Y4tkhF"
+1554250883370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554250883370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554250883489	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250883490	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250883490	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250883497	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250883497	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250883497	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250883503	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250883503	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250883503	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250883510	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554250883510	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554250883510	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:2044): Gtk-WARNING **: 03:21:23.709: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2044): Gtk-WARNING **: 03:21:23.709: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554250885081	Marionette	INFO	Listening on port 32977
+1554250885126	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1101:3
+
+[Parent 2044, Gecko_IOThread] WARNING: pipe error (126): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 2044, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554250889589	Marionette	INFO	Stopped listening on port 32977
+1554250963440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mg2DXZAOvwZB"
+1554250963882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554250963882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554250964003	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250964003	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250964003	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554250964009	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250964009	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250964010	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554250964015	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250964015	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250964016	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554250964023	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554250964023	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554250964023	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:3386): Gtk-WARNING **: 03:22:44.242: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3386): Gtk-WARNING **: 03:22:44.242: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554250965649	Marionette	INFO	Listening on port 38349
+1554250965774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554250976059	Marionette	INFO	Stopped listening on port 38349
+[Parent 3386, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554251257518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.omdNICEF54MR"
+1554251258006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554251258006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554251258136	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251258136	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251258136	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251258146	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251258146	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251258147	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251258159	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251258159	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251258160	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251258170	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554251258170	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554251258170	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:6168): Gtk-WARNING **: 03:27:38.379: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6168): Gtk-WARNING **: 03:27:38.379: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554251259736	Marionette	INFO	Listening on port 44139
+1554251259828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554251273681	Marionette	INFO	Stopped listening on port 44139
+[Parent 6168, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 6168, Gecko_IOThread] WARNING: pipe error (123): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554251518571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GSXqTmFWVlLz"
+1554251519039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554251519039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554251519156	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251519157	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251519157	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251519163	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251519163	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251519164	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251519169	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251519169	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251519170	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251519176	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554251519176	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554251519176	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:7539): Gtk-WARNING **: 03:31:59.382: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7539): Gtk-WARNING **: 03:31:59.382: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554251520748	Marionette	INFO	Listening on port 39743
+1554251520784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554251532113	Marionette	INFO	Stopped listening on port 39743
+[Parent 7539, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554251865662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1zrZWhRIprV5"
+1554251866112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554251866113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554251866231	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251866231	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251866231	addons.xpi-utils	WARN	Add-on langpack-ru@firefox.mozilla.org is not compatible with application version.
+1554251866237	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251866238	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251866238	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1554251866243	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251866243	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251866244	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1554251866250	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554251866250	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1554251866250	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:15122): Gtk-WARNING **: 03:37:46.451: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15122): Gtk-WARNING **: 03:37:46.451: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1554251867808	Marionette	INFO	Listening on port 46299
+1554251867876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554251871844	Marionette	INFO	Stopped listening on port 46299

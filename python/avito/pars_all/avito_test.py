@@ -7,17 +7,6 @@ from selenium import webdriver
 from PIL import Image
 from pytesseract import image_to_string
 
-def tel_recon(html):
-    image = Image.open('tel.gif')
-    print(image_to_string(image))
-def crop(html, location, size):
-    image = Image.open('screenshot.png')
-    x = location['x']
-    y = location['y']
-    width = size['width']
-    height = size['height']
-    image.crop((x, y, x+width, y+height)).save('tel.gif')
-    html.tel_recon()
 def get_html(url):
     r = requests.get(url)
     return r.text
@@ -29,8 +18,7 @@ def get_total_pages(html):
 def write_csv(data):
     with open('avito.csv', 'a') as f:
         writer = csv.writer(f)
-        writer.writerow( (data['seller'],
-                          data['title'],
+        writer.writerow( (data['title'],
                           data['price'],
                           data['phone'],
                           data['url']) )
@@ -74,13 +62,13 @@ def get_page_data(html):
         except:
             phone = ''
         try:
-            seller = driver.find_element_by_xpath('//div[@class="seller-info-value"]')
+            seller = driver.find('div', class_='seller-info-value')
         except:
             seller = '' 
         data = {'title': title,
                 'phone': phone,
                 'price': price,
-                'seller': seller,
+                # 'seller': seller,
                 'url': url}
         print(data)
         write_csv(data)

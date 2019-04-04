@@ -15211,3 +15211,5 @@ IPDL protocol error: Handler returned error code!
 1554351682043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1554351683627	Marionette	INFO	Listening on port 34177
 1554351683733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554351695898	Marionette	INFO	Stopped listening on port 34177
+[Parent 6369, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-8l_Snv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357

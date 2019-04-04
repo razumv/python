@@ -2494,3 +2494,5 @@ JavaScript error: https://www.avito.st/s/cc/chunks/67f041a8d0f884047f6b.js, line
 1554351686670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1554351688588	Marionette	INFO	Listening on port 40147
 1554351688676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554351698762	Marionette	INFO	Stopped listening on port 40147
+[Parent 6795, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-8l_Snv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357

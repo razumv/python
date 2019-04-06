@@ -5,7 +5,11 @@ from pytesseract import image_to_string
 
 class Bot:
     def __init__(self):
-        self.driver = webdriver.Firefox()
+        options = webdriver.ChromeOptions()
+        options.add_argument('--headless')
+        options.add_argument('--disable-gpu')
+        options.add_argument('--no-sandbox')
+        self.driver = webdriver.Chrome(executable_path="/home/chromedriver", chrome_options=options)
         self.navigate()
 
     def take_screenshot(self):

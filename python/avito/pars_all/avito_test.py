@@ -56,19 +56,14 @@ def get_page_data(html):
             width = size['width']
             height = size['height']
             image.crop((x, y, x+width, y+height)).save('tel.gif')
-            driver.quit()
             img = Image.open('tel.gif')
             phone = image_to_string(img)
+            driver.quit()       
         except:
             phone = ''
-        try:
-            seller = driver.find('div', class_='seller-info-value')
-        except:
-            seller = '' 
         data = {'title': title,
                 'phone': phone,
                 'price': price,
-                # 'seller': seller,
                 'url': url}
         print(data)
         write_csv(data)

@@ -18,8 +18,7 @@ def get_total_pages(html):
 def write_csv(data):
     with open('avito.csv', 'a') as f:
         writer = csv.writer(f)
-        writer.writerow( (data['seller'],
-                          data['title'],
+        writer.writerow( (data['title'],
                           data['price'],
                           data['phone'],
                           data['url']) )
@@ -59,33 +58,18 @@ def get_page_data(html):
             image.crop((x, y, x+width, y+height)).save('tel.gif')
             img = Image.open('tel.gif')
             phone = image_to_string(img)
-
-            image = driver.find_element_by_xpath('//div[@class="seller-info-value"]//*')
-            location = image.location       #dict {'x': 2343, 'y': 23423}
-            size = image.size               #dict {'width': 234, 'height': 234}
-            image = Image.open('screenshot.png')
-            x = location['x']
-            y = location['y']
-            width = size['width']
-            height = size['height']
-            image.crop((x, y, x+width, y+height)).save('name.gif')
-            driver.quit()
-            img = Image.open('name.gif')
-            sellerr = image_to_string(img)
-            driver.quit()
+            driver.quit()       
         except:
             phone = ''
-        try:
-            seller = sellerr
-        except:
-            seller = '' 
+        
         data = {'title': title,
                 'phone': phone,
                 'price': price,
-                'seller': seller,
                 'url': url}
+
         print(data)
         write_csv(data)
+        
 def main():
     url = 'https://www.avito.ru/moskva/avtomobili?p=1'
     base_url = 'https://www.avito.ru/moskva/avtomobili?'

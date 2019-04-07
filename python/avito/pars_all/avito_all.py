@@ -2,10 +2,16 @@ import requests
 import csv
 from bs4 import BeautifulSoup
 from time import sleep
-import urllib2
+import urllib3
 from selenium import webdriver
 from PIL import Image
 from pytesseract import image_to_string
+
+options = webdriver.ChromeOptions()
+options.add_argument('--headless')
+options.add_argument('window-size=1366x768')
+options.add_argument('--disable-gpu')
+options.add_argument('--no-sandbox')
 
 def get_html(url):
     r = requests.get(url)
@@ -27,7 +33,7 @@ def get_page_data(html):
     ads = soup.find('div', class_='catalog-main').find_all('div', class_='item_table')
     for ad in ads:
         try:
-            title = ad.find('div', class_='description').find('h3').text.strip().decode('ascii')
+            title = ad.find('div', class_='description item_table-description').find('h3').text.strip()
         except:
             title = ''
         try:
@@ -39,7 +45,7 @@ def get_page_data(html):
         except:
             price = ''
         try:
-            driver = webdriver.Firefox()
+            driver = webdriver.Chrome(chrome_options=options)
             driver.get(url)
             button = driver.find_element_by_xpath('//button[@class="tooltip-button-3_N8y button-root-1vr-3 width-width-12-26fjt button-has_width-2tzgp button-root_size-m-2QhUm button-root_design-primary-27s3g"]')
             button.click()
@@ -61,22 +67,20 @@ def get_page_data(html):
             driver.quit()       
         except:
             phone = ''
-        
+
         data = {'title': title,
                 'phone': phone,
                 'price': price,
                 'url': url}
-
         print(data)
         write_csv(data)
-        
 def main():
     url = 'https://www.avito.ru/moskva/avtomobili?p=1'
     base_url = 'https://www.avito.ru/moskva/avtomobili?'
     page_part = 'p='
     query_part = '&pmin=1000000&radius=0'
     total_pages = get_total_pages(get_html(url))
-    for i in range(1, total_pages):
+    for i in range(1, 2):
         url_gen = base_url + page_part + str(i) + query_part
         html = get_html(url_gen)
         get_page_data(html)
